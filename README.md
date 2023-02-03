@@ -1,16 +1,133 @@
-### Hi there 👋
+<!--  <h1 align="center">Hi 👋, I'm Bhuvan Jangra</h1>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
-<!--
-**BhuvanJangra/BhuvanJangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanjangra&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanjangra" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvanjangra" alt="bhuvanjangra" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React.js**
+
+- 💬 Ask me about **HTML , CSS, JavaScript , React & DSA**
+
+- 📫 How to reach me **bhuvanjangra@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sKWBeP2ILjX3o2yz8tm90mVTH9cuawvY/view?usp=sharing](https://drive.google.com/file/d/1sKWBeP2ILjX3o2yz8tm90mVTH9cuawvY/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvanjangra&show_icons=true&locale=en&layout=compact" alt="bhuvanjangra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvanjangra&show_icons=true&locale=en" alt="bhuvanjangra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanjangra&" alt="bhuvanjangra" /></p> 
+ -->
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Bhuvan Jangra</h1>
+<p align="center">
+<p align="center" height="300px">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;Curious+to+know+new+things;&color=cyan&center=true" />
+</div>
+ <div align="center" width="60%">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif"/>
+</div>
+    
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p></br>
+    
+    
+- 🔭 I’m currently pursuing Full Stack Web Development
+
+- 🌱 I’m currently learning React
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sKWBeP2ILjX3o2yz8tm90mVTH9cuawvY/view?usp=sharing)
+
+
+
+
+
+- 💬 Ask me about HTML, CSS, JavaScript, React & DSA
+
+- 📫 How to reach me bhuvanjangra@gmail.com
+
+  
+
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunas033&label=Profile%20views&color=0e75b6&style=flat" alt="tarunas033" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvanjangra&show_icons=true&locale=en&layout=compact" alt="bhuvanjangra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvanjangra&show_icons=true&locale=en" alt="bhuvanjangra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanjangra&" alt="bhuvanjangra" /></p> 
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/@csam202003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@csam202003" height="30" width="40" /></a>
+<a href="https://codesandbox.com/samruddhi chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Taruna Sharma" height="30" width="40" /></a>
+<a href="https://fb.com/samruddhi chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samruddhi chavan" height="30" width="40" /></a>
+<a href="https://instagram.com/@luvlite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luvlite" height="30" width="40" /></a>
+</p>
+    <h3>Tropies:</h3>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
+<h3 align="left">Languages and Tools:</h3>
+ <div align="center"><h3 align="center">Frontend</h3>
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+   <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
+ </div>
+ <br/>
+ <div align="center"><h3 align="center">Backend</h3> 
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+ <br/>
+<div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+   <br/>
+ </div> 
+</div>
+<br/>
+<h3>Github Stats:</h3>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunas033&show_icons=true&locale=en" alt="tarunas033" /></p> 
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunas033&" alt="tarunas033" /></p>
+
+
+
+
+
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p> -->
